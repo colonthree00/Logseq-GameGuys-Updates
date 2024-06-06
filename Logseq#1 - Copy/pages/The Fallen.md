@@ -1,2 +1,2 @@
 - Fallen's names (In-Game)
-	- Omni (Apparently used by past gens. Collector calls The Fallen Omni.)
+	- Omni (Apparently used by past gens. The Collector calls The Fallen Omni.)

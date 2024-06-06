@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :builtin-pages? false}
- :graph/forcesettings {:charge-range 1100
+ :graph/forcesettings {:charge-range 900
  :link-dist 30}}

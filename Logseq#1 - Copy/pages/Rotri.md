@@ -1,1 +1,3 @@
-- The "Representative" of The Sadness.
+- The Sadness's rep.
+- Locked in a cage below tranquility.
+- Rotri's death would cause an "imbalance in the aspects."

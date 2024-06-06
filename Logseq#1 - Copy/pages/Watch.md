@@ -1,1 +1,6 @@
 - The Anger's representative.
+- Watch's other names/Titles:
+	- Eye of Blindness
+	- Eye of Sight
+	- Eye of Sharp
+	- The Immortal Witness

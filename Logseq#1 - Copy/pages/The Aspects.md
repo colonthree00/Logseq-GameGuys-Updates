@@ -1,2 +1,5 @@
--
--
+- There are 3 Aspects.
+	- The Happiness
+	- The Sadness
+	- The Anger
+- Each Aspect has a "domain" that is like a piece of an aspect pie.
