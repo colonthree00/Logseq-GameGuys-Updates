@@ -1,0 +1,2 @@
+- [[Watch]] is the representative of The Anger.
+- The Anger is one of three Aspects (not to be confused with Location's aspects)
