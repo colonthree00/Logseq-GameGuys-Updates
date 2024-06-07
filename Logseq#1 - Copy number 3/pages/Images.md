@@ -1,0 +1,6 @@
+- I will eventually make pages for each image, but this is just a WIP.
+- Penrose Triangle (a.k.a Impossible Triangle)
+	- ![Penrose Triangle.png](../assets/Penrose_Triangle_1717654302034_0.png)
+	- The Penrose Triangle
+		- Represents each aspect.
+-

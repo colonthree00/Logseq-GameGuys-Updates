@@ -1,0 +1,3 @@
+- The "madman and the poet", apparently.
+- The Judge is a combination of [[Watch]] (The Anger), [[Rotri]] (The Sadness), and [[Swift Salvatore]] (The Happiness)
+-

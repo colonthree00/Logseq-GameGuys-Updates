@@ -1,0 +1,5 @@
+- The Sadness's rep.
+- Favors [[Calo (Player)]]
+- Locked in a cage below tranquility.
+- Rotri's death would cause an "imbalance in the aspects."
+- If Rotri was freed, [[Watch]] would "somehow" be chained and would regain his sight, causing [[The Vitriol]] to emerge. He will then disappear(? dms i'm going off of are confusing) until The Vitriol is blinded again.

@@ -1,0 +1,2 @@
+- Favored by [[The Sadness]]/[[Rotri]].
+-
